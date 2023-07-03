@@ -24,10 +24,7 @@ def egypt(n,d):
     '1/2 + 1/3 + 1/12 = 11/12 '
     """
 
-## Partial credit will be given for code that passes the two given doctests. 
-## For full credit on HW1 you should test your solutions to egypt(103,104) and  egypt(123,124)
-## These are more difficult and may require you to develop faster, more efficient code.
-## Hint: you may consider using code for gcd function for greatest common divisor:
+
 ## https://www.geeksforgeeks.org/gcd-in-python/
 
 >>> egypt(123,124)
